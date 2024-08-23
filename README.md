@@ -1,2 +1,2 @@
 # ShopChannelSite
-Probaly will be abandoned
+*Probaly will be abandoned*
