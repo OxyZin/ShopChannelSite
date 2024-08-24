@@ -1,11 +1,7 @@
 # 💻 WAD Shop Channel 💻
 
 ## 📚 Description 📚
-WebSite for updates :)
-
-## 🚀 Features 🚀
--  
-
+Sort of a Change Log
 
 ## 🤖 Technologies 🤖
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
